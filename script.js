@@ -65,7 +65,7 @@ class Lantern {
 // Create lanterns gradually
 const lanterns = [];
 const colors = ['#FFD700', '#FFA500', '#FF6347', '#FF4500', '#FF8C00'];
-const numLanterns = 50;
+const numLanterns = 75;
 const delayBetweenLanterns = 200; // Delay between each lantern's appearance (in milliseconds)
 
 function createLanterns() {
